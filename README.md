@@ -1,1 +1,1 @@
-It is a tourist guide for a greek city developped with C# and windows forms
+It is a tourist guide for a greek city developed with C# and windows forms
