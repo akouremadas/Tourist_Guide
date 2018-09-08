@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Εκδηλώσεις
+
+Οι Τοπικές Εκδηλώσεις του Δήμου Αλεξανδρούπολης περιλαμβάνουν:
+
+· Τα «Ελευθέρια» γιορτάζονται στις 14 Μαΐου σε ανάμνηση της απελευθέρωσης της πόλης από τους Βούλγαρους. Διαρκούν ολόκληρο τον Μάιο και περιλαμβάνουν πληθώρα εκδηλώσεων όπως παρέλαση, ομιλίες, παραστάσεις, εκθέσεις, μουσικές, χορευτικές εκδηλώσεις και άλλα.
+
+· «Κύματα Πολιτισμού»,  εκδηλώσεις του Δήμου Αλεξανδρούπολης που καλύπτουν όλο το καλοκαίρι.
+
+· Η «Εμπορική Έκθεση» υπό την αιγίδα του Εμπορικού - Βιομηχανικού Επιμελητηρίου Έβρου, με την συμμετοχή τοπικών εκθετών, καθώς και εκθετών από τα νησιά του Ανατολικού Αιγαίου και τα Βαλκανικά κράτη.
+
+· Το «Φεστιβάλ βιβλίου» που γίνεται κάθε δύο χρόνια στην παραλία της πόλης.
+
+· Το «Παγκόσμιο Συνέδριο Θρακών», που γίνεται κάθε 2 χρόνια σε κάποια πόλη της Θράκης.
+
+· Για αρκετά χρόνια στην Κίρκη οι λιγοστοί πλέον κάτοικοι του οικισμού, αλλά και πάρα πολλοί επισκέπτες, τιμούν την παράδοση με την αναβίωση ενός ξεχωριστού εθίμου. Πρόκειται για τη «Γιορτή της Μιλίνας», της πίτας που για τους κατοίκους της Κίρκης θεωρούνταν το πιο σημαντικό έδεσμα το οποίο προσφέρονταν στους φιλοξενούμενους ή στους επισκέπτες σε κάθε σπίτι. Η εκδήλωση της Μιλίνας γίνεται κάθε χρόνο στις αρχές Σεπτεμβρίου.
+
+· Ιδιαίτερο είναι το «Ποντιακό Πανηγύρι» στην Παλαγία στις 26 Ιουλίου, παραμονή του Αγίου Παντελεήμονος.
+
+· Στη Λεπτοκαρυά, σε μια πλαγιά με υψόμετρο 650 μ. από τη θάλασσα και σε απόσταση 32 χλμ. από την Αλεξανδρούπολη, ο σύλλογος Σαρακατσαναίων Νομού Έβρου έχει φτιάξει αναπαράσταση ενός Σαρακατσάνικου καταυλισμού. Η αναπαράσταση ενός παραδοσιακού θερινού οικισμού Σαρακατσάνων αποτελεί παράλληλα ζωντανό μουσείο και χώρο αναψυχής.
+
+· Τέλος, στις 8 Ιανουαρίου γιορτή της Όσιας Δομνίκης, στους περιαστικούς οικισμούς της Αλεξανδρούπολης (Μαΐστρος, Απαλός) η ημέρα είναι αφιερωμένη στις παντρεμένες γυναίκες και ιδιαίτερα στις μητέρες. Γιορτάζεται η μέρα της «Μπάμπος» ή της «Μαμής». Μπάμπο στη θρακική διάλεκτο σημαίνει γριά. Το έθιμο περιλαμβάνει δρώμενα με παραδοσιακές φορεσιές και γλέντι με θρακιώτικες μουσικές και τραγούδια, αποκλειστικά για γυναίκες.
+
+Γιορτές Παλιάς Ξάνθης
+
+Με κεντρικό σύνθημα «Πάμε Ξάνθη. Πάμε Γιορτές Παλιάς Πόλης να ομορφύνουμε τις τελευταίες καλοκαιρινές νύχτες, να ζήσουμε μία διαφορετική εμπειρία και μια πνοή αισιοδοξίας και χαράς!», ξεκινούν στις 3 Σεπτεμβρίου οι εκδηλώσεις των Γιορτών Παλιάς Πόλης που φέτος κλείνουν τον 26ο χρόνο από την καθιέρωσή τους από τον αείμνηστο δήμαρχο Φίλιππο Αμοιρίδη.
+
+Οι Γιορτές Παλιάς Πόλης της Ξάνθης είναι ο δεύτερος μεγάλος θεσμός στην Ξάνθη μετά τις Θρακικές Λαογραφικές Εορτές. Διοργανώθηκαν για πρώτη φορά το 1991 και έκτοτε λαμβάνουν χώρα αδιάλειπτα κάθε χρόνο την πρώτη εβδομάδα του Σεπτεμβρίου.
+Το όνομά τους το έλαβαν για τον λόγο ότι το μεγαλύτερο μέρος των εκδηλώσεων αυτών πραγματοποιείται στον παραδοσιακό διατηρητέο οικισμό της Ξάνθης, τη λεγόμενη «Παλιά Πόλη», στα σοκάκια της οποίας στήνονται τα στέκια των πολιτιστικών και καρναβαλικών συλλόγων για να προσφέρουν φαγητό και ποτό.
+Οι Ξανθιώτες απευθύνουν πρόσκληση συμμετοχής στη μεγάλη γιορτή της Ξάνθης, που είναι μια πρώτης τάξεως ευκαιρία, για ένα ουσιαστικό ταξίδι - εμπειρία, μιας μοναδικής πραγματικότητας, της ζεστής Ξανθιώτικης φιλοξενίας και της αισθητικής των πλακόστρωτων της γοητευτικής Παλιάς Πόλης.
+
+
+Kάθε πρώτη Κυριακή του Οκτώβρη, γιορτάζεται στη Δαδιά η Ευρωπαϊκή Γιορτή Πουλιών. 
+
+Η Ευρωπαϊκή Γιορτή Πουλιών, έχει καθιερωθεί σε διεθνές επίπεδο, καθώς εδώ και 22 χρόνια διοργανώνονται ανάλογες εκδηλώσεις σε 40 και πλέον χώρες υπό την αιγίδα του Birdlife International. Στην Ελλάδα οι εκδηλώσεις πραγματοποιούνται με το συντονισμό της Ελληνικής Ορνιθολογικής Εταιρίας.
+
+Η εκδήλωση λαμβάνει  χώρα στο ποτάμι της Δαδιάς, το Διαβαλόρεμα, όπου γίνεται παρατήρηση πουλιών και καταγραφή της φθινοπωρινής μετανάστευσης από το προσωπικό του Φορέα Διαχείρισης, με χρήση τηλεσκοπίων και κιαλιών.</value>
+  </data>
+</root>

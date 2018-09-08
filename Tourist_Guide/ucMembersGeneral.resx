@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>'Το σταυροδρόμι των λαών, των πολιτισμών και της ομορφιάς! '
+Αλεξανδρούπολη, μια πόλη που σου φέρνει στη μνήμη το μακρινό χθες και την ομορφιά του σήμερα. Μια πόλη 'κλειδί' της Ελλάδας, είτε φεύγεις είτε έρχεσαι από ανατολή και δύση. Αλεξανδρούπολη, μια 'ανοιχτή αγκαλιά' Στραμμένη στο πέλαγος. Πόλη της παράδοσης και του νεωτερισμού, πόλη της ξεκούρασης και της διασκέδασης, πόλη της θάλασσας και του τουρισμού. Η θέση της κομβική, ενώνει Ευρώπη και Ασία, Δύση και Ανατολή και έτσι η επικοινωνία της με τον κόσμο και την υπόλοιπη Ελλάδα γίνεται με κάθε μέσο χερσαίο, θαλάσσιο και εναέριο.
+Πρωτεύουσα νομού με όλες τις υπηρεσίες στη διάθεση των επισκεπτών της αλλά και το φιλόξενο πνεύμα των 60000 κατοίκων της. Τα θαλάσσια σπορ, οι άνετες ταβέρνες, τα καφενεία και τα μπαρ κατά μήκος του μώλου του λιμανιού, τα πολυτελή ξενοδοχεία και οι πολυάριθμες δυνατότητες διασκέδασης εγγυώνται στους επισκέπτες της πόλης μια ευχάριστη ατμόσφαιρα διακοπών και μια άνετη παραμονή.
+
+Πώς να έρθετε
+
+Η Αλεξανδρούπολη είναι μια πόλη σύγχρονη με προσεγμένο ρυμοτομικό σχέδιο και αναπτύσσεται με γρήγορους ρυθμούς. Αποτελεί έναν από τους σημαντικότερους συγκοινωνιακούς κόμβους καθώς προσεγγίζεται με όλα τα μέσα, αεροπορικώς, σιδηροδρομικώς, οδικώς και ακτοπλοϊκώς. Αξιοσημείωτα έργα υποδομής είναι το σύγχρονο-διεθνές λιμάνι, η Εγνατία οδός καθώς και η σιδηροδρομική σύνδεση με σημαντικές πόλεις που την καθιστούν εμπορικό κόμβο και δημιουργούν τις κατάλληλες προϋποθέσεις για την περαιτέρω ανάπτυξή της στο μέλλον. Επίσης, λειτουργούν ποδηλατοδρόμοι.
+
+Οδικώς
+
+Η Αλεξανδρούπολη απέχει από την Αθήνα 800 χλμ, και το ταξίδι με το αυτοκίνητο διαρκεί 8 ώρες. Για να φτάσεις στην πρωτεύουσα του Νομού Έβρου διασχίζεις ένα μεγάλο μέρος της ηπειρωτικής Ελλάδος μέσω της ΝΕΟ Αθηνών – Θεσσαλονίκης και της Εγνατίας Οδού.
+
+Η Εγνατία Οδός είναι ο μεγαλύτερος κύριος δρόμος που περνά από την Αλεξανδρούπολη. Συνδέει την πόλη με την Ηγουμενίτσα, τα Ιωάννινα, την Θεσσαλονίκη και την Καβάλα προς τα δυτικά και τους Κήπους Έβρου προς τα ανατολικά. Σε λίγα χρόνια, πρόκειται να αποκτήσει ευκολότερη πρόσβαση προς τις περιοχές του βορείου Έβρου.
+Υπάρχουν επίσης και δρομολόγια των υπεραστικών λεωφορείων ΚΤΕΛ που συνδέουν την Αλεξανδρούπολη με τις πόλεις της Κομοτηνής, Ξάνθης, Καβάλας και Θεσσαλονίκης. Μέσω του Σταθμού των Υπεραστικών ΚΤΕΛ της Θεσσαλονίκης υπάρχει δυνατότητα μετάβασης στις πόλεις της Δυτικής, Κεντρικής και Νότιας Ελλάδας. Υπάρχουν επίσης ορισμένα δρομολόγια υπεραστικών λεωφορείων που συνδέουν απευθείας την Αλεξανδρούπολη με την Αθήνα. Συχνή καθημερινή σύνδεση υπάρχει με τις υπόλοιπες περιοχές του Νομού Έβρου.
+
+Σιδηροδρομικώς
+
+Ο σιδηροδρομικός σταθμός Αλεξανδρούπολης έχει τρένα που συνδέουν την πόλη με τη Θεσσαλονίκη, διερχόμενα από Κομοτηνή, Ξάνθη, Δράμα, Σέρρες και Κιλκίς. Δρομολόγια υπάρχουν και με τις περιοχές του Βόρειου Έβρου, προς το Σουφλί, το Διδυμότειχο, την Ορεστιάδα και τα Δίκαια.
+
+Ακτοπλοϊκώς
+
+Το λιμάνι της Αλεξανδρούπολης διαθέτει ακτοπλοϊκά δρομολόγια από και προς τη Σαμοθράκη και την Καβάλα.
+
+Αεροπορικώς
+
+Η Αλεξανδρούπολη έχει ένα διεθνές αεροδρόμιο (Διεθνές Αεροδρόμιο Δημόκριτος), το οποίο απέχει 7 χλμ. από το κέντρο της πόλης. Εκτελούνται καθημερινές πτήσεις από και προς την Αθήνα. Ορισμένες μέρες της εβδομάδας υπάρχουν πτήσεις από και προς την Κρήτη και τη Μυτιλήνη. Κατά τη διάρκεια των καλοκαιρινών μηνών εκτελούνται μερικές εποχιακές πτήσεις από και προς τη Γερμανία και Ρωσία. Το αεροδρόμιο συνδέεται με την πόλη με λεωφορεία του αστικού ΚΤΕΛ και με ταξί.
+Χρήσιμα Τηλέφωνα
+
+ΕΚΤΑΚΤΗΣ ΑΝΑΓΚΗΣ
+
+ΕΚΑΒ: 166
+ΠΥΡΟΣΒΕΣΤΙΚΗ: 199 , 25510-85100
+ΑΣΤΥΝΟΜΙΑ: 100 , 25510-66100
+ΛΙΜΕΝΙΚΗ ΑΣΤΥΝΟΜΙΑ: 25513-56225
+ΚΕΝΤΡΟ ΔΗΛΗΤΗΡΙΑΣΕΩΝ: 210-7793777
+ΑΜΕΣΗ ΚΟΙΝΩΝΙΚΗ ΒΟΗΘΕΙΑ: 197
+
+ΒΛΑΒΕΣ
+
+Βλάβες ΔΕΗ: 1050 , 25510-53529 , 25510-26488
+Βλάβες Ύδρευσης: 25510-26046
+Βλάβες ΟΤΕ: 13888
+
+ΣΥΓΚΟΙΝΩΝΙΕΣ
+
+ΤΑΞΙ: 25510-33500
+ΑΣΤΙΚΑ ΛΕΩΦΟΡΕΙΑ: 25510-28844 , 25510-20220
+ΟΛΥΜΠΙΑΚΗ: 25510-45198 , 210-3550500
+AEGEAN AIRLINES: 25510-89150 , 210-6261000
+Αεροδρόμιο: 25510-89300 , 25510-89322
+ΚΤΕΛ Αλεξανδρούπολης: 25510-26479
+Πληροφορίες ΚΤΕΛ όλης της Ελλάδας: 14505
+ΟΣΕ: 25510-26395
+Πλοία για Σαμοθράκη: 25510-38503</value>
+  </data>
+</root>
